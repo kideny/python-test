@@ -1,7 +1,7 @@
 [[source]]
 url = "https://pypi.org/simple"
 verify_ssl = true
-name = "pypi"
+name = "Python Test"
 
 [packages]
 django-cms = "<3.6,>=3.5"
@@ -26,6 +26,7 @@ pillow = ">=3.0"
 django-sekizai = ">=0.9"
 six = "*"
 "urllib3" = ">=1.22"
+requests = "*"
 
 [dev-packages]
 
