@@ -105,8 +105,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-.idea/vcs.xml
 media/
 pythontest/static/
 static/
-/.idea/workspace.xml
+.idea
