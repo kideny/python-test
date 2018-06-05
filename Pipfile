@@ -29,6 +29,8 @@ six = "*"
 requests = "*"
 
 [dev-packages]
+pytest = "*"
+typing = "*"
 
 [requires]
 python_version = "3.6"
