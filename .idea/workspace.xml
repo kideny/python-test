@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a745d2d6-a516-4ebc-a744-6320c37ec089" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pythontest/tests/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/tests/database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/tests/language/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/tests/language/basic/basic_syntax/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/tests/language/basic/control_flow/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/tests/language/basic/data_type/TestIntMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/tests/language/basic/data_type/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/tests/language/other/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/tests/web/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythontest/tests/language/data_type/TestStringMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythontest/tests/language/basic/data_type/TestStringMethods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythontest/tests/language/data_type/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythontest/tests/cache/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythontest/tests/language/basic/data_type/TestIntMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythontest/tests/language/basic/data_type/TestIntMethods.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +31,8 @@
       <file leaf-file-name="TestIntMethods.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pythontest/tests/language/basic/data_type/TestIntMethods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="75">
+              <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -94,27 +84,6 @@
               <item name="pythontest" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontest" type="462c0819:PsiDirectoryNode" />
               <item name="pythontest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythontest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontest" type="462c0819:PsiDirectoryNode" />
-              <item name="pythontest" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythontest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontest" type="462c0819:PsiDirectoryNode" />
-              <item name="pythontest" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="language" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythontest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontest" type="462c0819:PsiDirectoryNode" />
-              <item name="pythontest" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="language" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pythontest" type="b2602c69:ProjectViewProjectNode" />
@@ -238,12 +207,12 @@
       <option name="project" value="LOCAL" />
       <updated>1528179577740</updated>
     </task>
-    <task id="LOCAL-00004" summary="add pipfile">
-      <created>1527584294515</created>
+    <task id="LOCAL-00004" summary="添加单元测试">
+      <created>1528180727463</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1527584294515</updated>
+      <updated>1528180727463</updated>
     </task>
     <task id="LOCAL-00005" summary="add pipfile">
       <created>1527584419624</created>
@@ -252,7 +221,7 @@
       <option name="project" value="LOCAL" />
       <updated>1527584419624</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -300,16 +269,16 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19661734" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19661734" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49841437" weight="0.3287037" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51955605" side_tool="true" visible="true" weight="0.35005835" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.52008456" side_tool="true" visible="true" weight="0.35005835" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4857294" weight="0.32672113" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.48520085" weight="0.32672113" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.48995772" weight="0.28819445" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989429" weight="0.32905483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.48044398" visible="true" weight="0.35005835" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.47991544" visible="true" weight="0.35005835" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -485,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythontest/tests/language/basic/data_type/TestIntMethods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="75">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
         </state>
       </provider>
     </entry>

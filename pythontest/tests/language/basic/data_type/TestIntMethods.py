@@ -1,6 +1,7 @@
 import unittest
 
-class TestIntMethosds (unittest.TestCase):
+
+class TestIntMethods (unittest.TestCase):
 
     def test_sum(self):
         self.assertEqual(4, 2 + 2)
